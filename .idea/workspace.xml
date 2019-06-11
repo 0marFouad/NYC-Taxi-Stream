@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="705e2352-1b76-4f47-8a7f-8809cf7d1f53" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/StreamingJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="851">
+              <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/MapTrip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="782">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0-sources.jar!/org/apache/flink/runtime/jobmaster/JobResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1449">
+              <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/taxi_zones_simple.csv">
+          <provider editor-type-id="csv-table-editor">
+            <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+          </provider>
+          <provider selected="true" editor-type-id="csv-text-editor">
+            <state relative-caret-position="268">
+              <caret line="207" column="36" selection-start-line="207" selection-start-column="28" selection-end-line="207" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/SocketSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1288">
+              <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/Trip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/ModifiedTrip.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>socket</find>
+      <find>shakeHands</find>
+      <find>getSo</find>
+      <find>buffer</find>
+      <find>}, }</find>
+      <find>}</find>
+      <find>sca</find>
+      <find>print</find>
+      <find>co</find>
+      <find />
+      <find>ignore</find>
+      <find>escape</find>
+      <find>Sys</find>
+      <find>hnaa</find>
+      <find>inputStream</find>
+      <find>getIn</find>
+      <find>openInputStream</find>
+      <find>system.out</find>
+      <find>repla</find>
+      <find>replaceAll</find>
+      <find>{</find>
+      <find>perda</find>
+      <find>int</find>
+      <find>counter</find>
+      <find>in</find>
+      <find>Result</find>
+      <find>Trip</find>
+      <find>ctx</find>
+      <find>Madison</find>
+      <find>Woodside</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/1.13/nv-websocket-client-1.13.jar!/com/neovisionaries/ws/client/AkkaConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/myorg/quickstart/Trip.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/myorg/quickstart/AkkaConnector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/myorg/quickstart/SocketSource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/myorg/quickstart/ModifiedTrip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/myorg/quickstart/MapTrip.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/myorg/quickstart/StreamingJob.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="add-dependencies-for-IDEA" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="552" />
+    <option name="y" value="27" />
+    <option name="width" value="897" />
+    <option name="height" value="789" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SmarteraChallenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmarteraChallenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/1.13/nv-websocket-client-1.13.jar!/com/neovisionaries/ws/client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="StreamingJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.myorg.quickstart.StreamingJob" />
+      <module name="SmarteraChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.myorg.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamingJob" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="705e2352-1b76-4f47-8a7f-8809cf7d1f53" name="Default Changelist" comment="" />
+      <created>1556389501774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556389501774</updated>
+      <workItem from="1556389503304" duration="24958000" />
+      <workItem from="1556462975117" duration="4186000" />
+      <workItem from="1556470185449" duration="6680000" />
+      <workItem from="1556560337199" duration="1140000" />
+      <workItem from="1556567076205" duration="2665000" />
+      <workItem from="1556573983641" duration="11511000" />
+      <workItem from="1557518567879" duration="8740000" />
+      <workItem from="1557578837592" duration="11033000" />
+      <workItem from="1557602708147" duration="9553000" />
+      <workItem from="1557875079687" duration="7440000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="87906000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2246818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21115974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32932165" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/1.13/nv-websocket-client-1.13.jar!/com/neovisionaries/ws/client/StateManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/InputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/FilterInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.8.0/flink-core-1.8.0.jar!/org/apache/flink/util/IOUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="96" column="23" selection-start-line="96" selection-start-column="23" selection-end-line="96" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/net/Socket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="410" column="23" selection-start-line="410" selection-start-column="23" selection-end-line="410" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/environment/StreamExecutionEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="449" column="45" selection-start-line="449" selection-start-column="45" selection-end-line="449" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/net/InetSocketAddress.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.8.0/flink-core-1.8.0.jar!/org/apache/flink/api/common/functions/MapFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/functions/sink/PrintSinkFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1410#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#805#806#0" expanded="true" />
+            <element signature="e#1288#1289#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1361#1362#0" expanded="true" />
+            <element signature="e#1406#1407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/datastream/DataStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="332" column="19" lean-forward="true" selection-start-line="332" selection-start-column="19" selection-end-line="332" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.8/jackson-databind-2.9.8.jar!/com/fasterxml/jackson/databind/ObjectMapper.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/1.13/nv-websocket-client-1.13.jar!/com/neovisionaries/ws/client/WebSocketInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/1.13/nv-websocket-client-1.13.jar!/com/neovisionaries/ws/client/AkkaConnector.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/neovisionaries/nv-websocket-client/1.13/nv-websocket-client-1.13.jar!/com/neovisionaries/ws/client/WebSocket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2015">
+          <caret line="96" column="25" selection-start-line="96" selection-start-column="11" selection-end-line="96" selection-end-column="25" />
+          <folding>
+            <element signature="e#1859#2396#0" />
+            <element signature="e#2402#2511#0" />
+            <element signature="e#2517#3447#0" />
+            <element signature="e#2602#2701#1" />
+            <element signature="e#2707#3441#1" />
+            <element signature="e#3136#3431#0" />
+            <element signature="e#3231#3383#1" />
+            <element signature="e#3453#3621#0" />
+            <element signature="e#3550#3588#1" />
+            <element signature="e#3627#3770#0" />
+            <element signature="e#3703#3764#0" />
+            <element signature="e#3865#4032#0" />
+            <element signature="e#3956#4026#0" />
+            <element signature="e#4038#4166#0" />
+            <element signature="e#4172#4316#0" />
+            <element signature="e#4322#4459#0" />
+            <element signature="e#4465#4593#0" />
+            <element signature="e#4599#4742#0" />
+            <element signature="e#4820#4930#0" />
+            <element signature="e#5010#5114#0" />
+            <element signature="e#5120#5497#0" />
+            <element signature="e#5188#5491#0" />
+            <element signature="e#5337#5381#1" />
+            <element signature="e#5387#5481#1" />
+            <element signature="e#5593#5717#0" />
+            <element signature="e#5813#5937#0" />
+            <element signature="e#5943#6081#0" />
+            <element signature="e#6087#6231#0" />
+            <element signature="e#6237#6347#0" />
+            <element signature="e#6502#7114#0" />
+            <element signature="e#6628#6680#0" />
+            <element signature="e#6713#6889#0" />
+            <element signature="e#7120#7252#0" />
+            <element signature="e#7350#7462#0" />
+            <element signature="e#7778#8487#0" />
+            <element signature="e#7879#8357#0" />
+            <element signature="e#7931#8347#0" />
+            <element signature="e#8683#9206#0" />
+            <element signature="e#8761#8797#1" />
+            <element signature="e#8803#9200#1" />
+            <element signature="e#8850#9190#0" />
+            <element signature="e#9007#9059#1" />
+            <element signature="e#9065#9176#1" />
+            <element signature="e#9334#9473#0" />
+            <element signature="e#9479#9616#0" />
+            <element signature="e#9622#9784#0" />
+            <element signature="e#9790#9927#0" />
+            <element signature="e#9933#10095#0" />
+            <element signature="e#10228#10374#0" />
+            <element signature="e#10511#10661#0" />
+            <element signature="e#10905#11052#0" />
+            <element signature="e#11778#12274#0" />
+            <element signature="e#11883#12190#0" />
+            <element signature="e#11958#12111#1" />
+            <element signature="e#12280#12782#0" />
+            <element signature="e#12788#13203#0" />
+            <element signature="e#12888#12994#0" />
+            <element signature="e#13020#13197#0" />
+            <element signature="e#13209#13633#0" />
+            <element signature="e#13311#13420#0" />
+            <element signature="e#13446#13627#0" />
+            <element signature="e#13639#13793#0" />
+            <element signature="e#13799#14313#0" />
+            <element signature="e#14013#14089#0" />
+            <element signature="e#14115#14307#0" />
+            <element signature="e#14319#14779#0" />
+            <element signature="e#14785#15913#0" />
+            <element signature="e#14902#14950#0" />
+            <element signature="e#14976#15172#0" />
+            <element signature="e#15222#15751#1" />
+            <element signature="e#15314#15487#1" />
+            <element signature="e#15525#15741#1" />
+            <element signature="e#15757#15907#1" />
+            <element signature="e#15919#17142#0" />
+            <element signature="e#16172#17136#1" />
+            <element signature="e#16215#16271#0" />
+            <element signature="e#16297#16484#0" />
+            <element signature="e#16538#16714#1" />
+            <element signature="e#16577#16667#1" />
+            <element signature="e#16795#16990#1" />
+            <element signature="e#16834#16924#1" />
+            <element signature="e#17017#17126#1" />
+            <element signature="e#17148#17629#0" />
+            <element signature="e#17305#17623#1" />
+            <element signature="e#17479#17575#1" />
+            <element signature="e#17635#18698#0" />
+            <element signature="e#17837#18530#1" />
+            <element signature="e#17921#18380#1" />
+            <element signature="e#18179#18366#1" />
+            <element signature="e#18293#18348#1" />
+            <element signature="e#18536#18692#1" />
+            <element signature="e#18704#19779#0" />
+            <element signature="e#18912#19605#1" />
+            <element signature="e#18996#19453#1" />
+            <element signature="e#19254#19439#1" />
+            <element signature="e#19366#19421#1" />
+            <element signature="e#19611#19773#1" />
+            <element signature="e#19785#20875#0" />
+            <element signature="e#19989#20171#1" />
+            <element signature="e#20177#20869#1" />
+            <element signature="e#20349#20554#0" />
+            <element signature="e#20578#20617#0" />
+            <element signature="e#20661#20859#1" />
+            <element signature="e#20881#22365#0" />
+            <element signature="e#21103#22359#1" />
+            <element signature="e#21254#22299#1" />
+            <element signature="e#21512#22285#1" />
+            <element signature="e#21692#21882#1" />
+            <element signature="e#22012#22219#1" />
+            <element signature="e#22371#23063#0" />
+            <element signature="e#22567#23057#1" />
+            <element signature="e#22682#23047#1" />
+            <element signature="e#22756#22955#1" />
+            <element signature="e#22961#23033#1" />
+            <element signature="e#23069#23443#0" />
+            <element signature="e#23265#23374#0" />
+            <element signature="e#23449#23966#0" />
+            <element signature="e#23592#23781#0" />
+            <element signature="e#23818#23870#1" />
+            <element signature="e#23907#23959#1" />
+            <element signature="e#24288#24587#0" />
+            <element signature="e#24360#24547#0" />
+            <element signature="e#24498#24537#1" />
+            <element signature="e#24593#24892#0" />
+            <element signature="e#24665#24852#0" />
+            <element signature="e#24803#24842#1" />
+            <element signature="e#24898#25110#0" />
+            <element signature="e#24977#25104#1" />
+            <element signature="e#25116#25223#0" />
+            <element signature="e#25229#25562#0" />
+            <element signature="e#25327#25521#0" />
+            <element signature="e#25472#25511#1" />
+            <element signature="e#25568#25901#0" />
+            <element signature="e#25666#25860#0" />
+            <element signature="e#25811#25850#1" />
+            <element signature="e#25976#26495#0" />
+            <element signature="e#26079#26124#0" />
+            <element signature="e#26202#26277#0" />
+            <element signature="e#26501#26675#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/Thread.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="213" selection-start-line="213" selection-end-line="213" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0.jar!/org/apache/flink/runtime/taskmanager/Task.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="360" selection-start-line="360" selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0.jar!/org/apache/flink/runtime/jobmaster/JobResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0.jar!/org/apache/flink/runtime/minicluster/MiniCluster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="441" selection-start-line="441" selection-end-line="441" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-core/1.8.0/flink-core-1.8.0.jar!/org/apache/flink/api/common/functions/Function.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/functions/source/SocketTextStreamFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/BufferedReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/InputStreamReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/net/SocketInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/environment/LocalStreamEnvironment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/functions/source/SourceFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="227" selection-start-line="227" selection-end-line="227" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/io/Reader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1978">
+          <caret line="86" column="59" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-elasticsearch-base_2.11/1.8.0/flink-connector-elasticsearch-base_2.11-1.8.0.jar!/org/apache/flink/streaming/connectors/elasticsearch/ElasticsearchSinkBase.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0-sources.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3289">
+          <caret line="377" column="16" selection-start-line="377" selection-start-column="16" selection-end-line="377" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0-sources.jar!/org/apache/flink/runtime/taskmanager/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="710" column="22" selection-start-line="710" selection-start-column="22" selection-end-line="710" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/StreamingJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="73" column="10" selection-start-line="73" selection-start-column="10" selection-end-line="73" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/MapTrip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0-sources.jar!/org/apache/flink/runtime/jobmaster/JobResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1449">
+          <caret line="113" column="5" selection-start-line="113" selection-start-column="5" selection-end-line="113" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/SocketSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="75" column="31" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/Trip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/ModifiedTrip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/myorg/quickstart/taxi_zones_simple.csv">
+      <provider editor-type-id="text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="268">
+          <caret line="207" column="36" selection-start-line="207" selection-start-column="28" selection-end-line="207" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

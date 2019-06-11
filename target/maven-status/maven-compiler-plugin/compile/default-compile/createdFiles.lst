@@ -1,0 +1,8 @@
+org/myorg/quickstart/BatchJob.class
+org/myorg/quickstart/StreamingJob$1.class
+org/myorg/quickstart/StreamingJob.class
+org/myorg/quickstart/AkkaConnector.class
+org/myorg/quickstart/StreamingJob$Result.class
+org/myorg/quickstart/Trip.class
+org/myorg/quickstart/StreamingJob$Aggregation.class
+org/myorg/quickstart/AkkaConnector$1.class
